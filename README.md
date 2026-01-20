@@ -42,13 +42,15 @@ This project focuses on object-oriented programming, animation, collision detect
 5. The game ends if:
 * The snake hits the wall
 * The snake collides with its own body
-
+  
+---
 **🎮 Gameplay Example**
 
     Score: 5
     
     GAME OVER
 
+---
 **🎯 What I Learned**
 
 * Implementing OOP using multiple classes
@@ -58,6 +60,7 @@ This project focuses on object-oriented programming, animation, collision detect
 * Managing game state and score
 * Structuring a medium-sized Python project
 
+---
 **🚀 Future Improvements**
 
 * Add high-score saving
@@ -66,6 +69,7 @@ This project focuses on object-oriented programming, animation, collision detect
 * Add sound effects
 * Improve visuals and animations
 
+---
 **🙌 Acknowledgment**
 
 This project is part of my Python learning journey and helped me understand how classic games can be built using clean, object-oriented design in Python.
